@@ -38,14 +38,14 @@ yarn test
 
 ### Methods
 
-***new(properties: ?object)***
+**new(properties: ?object)**
 
 Instantiate a new socket stub. You can pass a properties object into the constructor to apply properties on the Socket
 
-***simulate(event: string, payload: any)***
+**simulate(event: string, payload: any)**
 
 Simulate an event on the socket
 
-***clear***
+**clear**
 
 Clear all tracked emitted events from socket
