@@ -9,10 +9,10 @@ export default class SocketStub {
     this.events[event] = handler;
   }
 
-  emit(event, payload) {
+  emit(...args) {
     this.emitted = [
       ...this.emitted,
-      payload
+      args
     ];
   }
 
