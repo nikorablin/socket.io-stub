@@ -1,6 +1,6 @@
 {
   "name": "socket.io-stub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stub for testing servet socket.io code",
   "main": "index.js",
   "repository": "github.com/nikorablin/socket.io-stub",
