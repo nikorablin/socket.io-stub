@@ -38,7 +38,7 @@ yarn test
 
 ### Methods
 
-**new(properties: ?object)**
+**new SocketStub(properties: ?object)**
 
 Instantiate a new socket stub. You can pass a properties object into the constructor to apply properties on the Socket
 
